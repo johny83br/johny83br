@@ -1,6 +1,6 @@
 - 👋 Olá, meu nome é Jônata Marcelino ( @johny83br ).
 
-- :mortar_board: sou bacharel em Ciência da Computação pela Universidade do Estado do Rio Grande do Norte (UERN), especialista em Desenvolviento em Java pela universidade Candido Mendes (UCAM), e especialista em Ciência de Dados pela Universidade de Pitágoras (UNOPAR).
+- :mortar_board: Sou bacharel em Ciência da Computação pela Universidade do Estado do Rio Grande do Norte (UERN), especialista em Desenvolviento em Java pela universidade Candido Mendes (UCAM), e especialista em Ciência de Dados pela Universidade de Pitágoras (UNOPAR).
 
 - 👀 Há mais 18 anos trabalho com Desenvolvimento Web, dentro e fora do país de origem.
 
