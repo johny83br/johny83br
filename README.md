@@ -4,6 +4,6 @@
 
 - 👀 Há mais 18 anos trabalho com Desenvolvimento Web, dentro e fora do país de origem.
 
-- 🌱 Estou atualmente concluindo meu aprendizado em Python, mas em constante atualização com as novas tecnologias.
+- 🌱 Concluí recentemente meu aprendizado em Python, e estou em constante atualização com as novas tecnologias.
 
 - 📫 Para mais informações vocês podem me procurar pelo <a href="https://www.linkedin.com/in/jonata-marcelino/" target="_blank">LinkedIn</a> ou através do <a href="https://about.me/jonata.marcelino">About.me</a>.
