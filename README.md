@@ -2,7 +2,7 @@
 
 - :mortar_board: Sou bacharel em Ciência da Computação pela Universidade do Estado do Rio Grande do Norte (UERN), especialista em Desenvolviento em Java pela universidade Candido Mendes (UCAM), e especialista em Ciência de Dados pela Universidade de Pitágoras (UNOPAR).
 
-- 👀 Há mais 20 anos trabalho com Desenvolvimento Web, dentro e fora do país de origem.
+- 👀 Há mais 25 anos trabalho com Desenvolvimento Web, dentro e fora do país de origem.
 
 - 🌱 Estou em constante atualização com as novas tecnologias, no momento estudando C#
 
