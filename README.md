@@ -4,6 +4,6 @@
 
 - 👀 Há mais 25 anos trabalho com Desenvolvimento Web, dentro e fora do país de origem.
 
-- 🌱 Estou em constante atualização com as novas tecnologias
+- 🌱 Estou em constante atualização com as novas tecnologias.
 
-- 📫 Para mais informações vocês podem me procurar pelo <a href="https://www.linkedin.com/in/jonata-marcelino/" target="_blank">LinkedIn</a> ou através do <a href="https://about.me/jonata.marcelino">About.me</a>.
+- 📫 Para mais informações vocês podem me procurar pelo <a href="https://www.linkedin.com/in/jonata-marcelino/" target="_blank">LinkedIn</a>.
