@@ -11,7 +11,7 @@ Profissional com mais de **25 anos de experiência em Desenvolvimento Web**, atu
 
 <details>
 
-<summary>Resumo</summary>
+<summary>Mais informações</summary>
 
 ## 🎓 Formação Acadêmica
 
